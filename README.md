@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Wenderson169 and I'm 21 years old.
-- 🎓 I'm currently in the last year of a Bachelor's degree in Software engineering (remote).
-- 👀 I’m interested in a job as a (junior/intern/trainee) Full Stack Web Developer.
-- 🌱 I’m currently learning React.
+- 👋 Hi, I’m Wenderson Barros.
+- 🎓 I have a Bachelor degree in Software engineering.
+- 💻 I’m Currently working at Obuc as a Web Developer.
 - 📫 How to reach me -> Whatsapp📱 +55 65 99616-1852.
 
 <!---
